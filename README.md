@@ -21,5 +21,3 @@ Ethical Use: Always respect the terms of service of the website. Automating acti
 Error Handling: Add more robust error handling for production use.
 
 Security: Avoid hardcoding sensitive information like passwords. Use environment variables or a secure vault.
-
-This project demonstrates advanced skills in web scraping, automation, and email handling, making it a great addition to your resume. Good luck with your job search!
