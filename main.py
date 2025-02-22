@@ -10,9 +10,9 @@ from selenium.webdriver.chrome.service import Service
 
 # Constants
 INTERNSHALA_URL = "https://internshala.com"
-EMAIL = "ehsandesigner.s@gmail.com"  # Replace with your email
-PASSWORD = "@Ehsan420"  # Replace with your email password
-RECIPIENT_EMAIL = "saleemehsan14@gmail.com"  # Replace with recipient email
+EMAIL = "YOUR_EMAIL"  # Replace with your email
+PASSWORD = "YOUR_PASSWORD"  # Replace with your email password
+RECIPIENT_EMAIL = "RECIPIENT_EMAIL"  # Replace with recipient email
 WEBDRIVER_PATH = "/path/to/chromedriver"  # Replace with your WebDriver path
 
 # Initialize WebDriver
